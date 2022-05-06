@@ -55,8 +55,8 @@
     <system:String x:Key="UI_TEXT_SERVER_CONF_STARTUP_ARGS_CLIENT">노스스타 클라이언트 실행 인수</system:String>
     <system:String x:Key="UI_TEXT_SERVER_CONF_QUICK_LAUNCH">빠른 실행</system:String>
     <system:String x:Key="UI_TEXT_SERVER_CONF_FILE_PATHS">파일 경로</system:String>
-    <system:String x:Key="UI_TEXT_SERVER_CONF_FILE_PATHS_DEDI">노스스타 실행 데디케이티드 경로</system:String>
-    <system:String x:Key="UI_TEXT_SERVER_CONF_NS_CONVAR_PATH">노스스타 Convar_ 경로</system:String>
+    <system:String x:Key="UI_TEXT_SERVER_CONF_FILE_PATHS_DEDI">노스스타 서버 Convar 파일 경로</system:String>
+    <system:String x:Key="UI_TEXT_SERVER_CONF_NS_CONVAR_PATH">노스스타 Convar 파일 경로</system:String>
     <system:String x:Key="UI_TEXT_SERVER_CONF_STARTUP_ARGUMENTS">실행 인수</system:String>
     <system:String x:Key="UI_TEXT_SERVER_CONF_CONVAR_ARGUMENTS">Convar 인수</system:String>
     <system:String x:Key="UI_TEXT_SERVER_CONF_IMPORT_SERVER_CONFIG">서버 설정 가져오기</system:String>
